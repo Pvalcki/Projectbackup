@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: c3f85c4a6a4b844409a8f0db7244bbb8
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -8242690122837393939
+    second: Giove plnt.003|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -1128430034998598890
+    second: Giove plnt.003|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 3513973881764664024
+    second: Giove plnt.003|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -3034968821931983788
+    second: Giove plnt.003|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 6867683668342449299
+    second: Giove plnt.003|clssica|Take 001|BaseLayer
+  - first:
+      74: -741967681350352483
+    second: Giove plnt.003|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 4982342158043533923
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -7475922020700456417
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 3301849736678781934
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -5645830403404001490
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -3736598122633255138
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -1386166356413927813
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 4860314240991032186
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 7652742262378830033
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 2669927042001138567
+    second: Giove plnt.003|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -8696245692434312267
+    second: Giove plnt.003|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -1435820419835027652
+    second: Giove plnt.003|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 9183024920909411264
+    second: Giove plnt.003|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -866387319401827114
+    second: Giove plnt.003|Plan004|Take 001|BaseLayer
+  - first:
+      74: -7611568597898029318
+    second: Giove plnt.004|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -1573381458068287796
+    second: Giove plnt.004|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 4626808201254616733
+    second: Giove plnt.004|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 1364667209565561380
+    second: Giove plnt.004|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 2277886635146822974
+    second: Giove plnt.004|clssica|Take 001|BaseLayer
+  - first:
+      74: 6404763959006784764
+    second: Giove plnt.004|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -4745207832323756613
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 7787319434148336596
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8728251009827930534
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -5685343998710387223
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 1631157632560171818
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -2139167353777833477
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 1358638672767042962
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 4637912478500182359
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 8532778197565318765
+    second: Giove plnt.004|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1644468365226832285
+    second: Giove plnt.004|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -3615511541132047837
+    second: Giove plnt.004|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -6318654098109333123
+    second: Giove plnt.004|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -7386959263564565975
+    second: Giove plnt.004|Plan004|Take 001|BaseLayer
+  - first:
+      74: 1490762332007465334
+    second: Giove plnt.005|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -7011913678440559242
+    second: Giove plnt.005|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -1536144833047128063
+    second: Giove plnt.005|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 6043544103010826611
+    second: Giove plnt.005|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 2516948462214304174
+    second: Giove plnt.005|clssica|Take 001|BaseLayer
+  - first:
+      74: 7495513997466477542
+    second: Giove plnt.005|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -5099415127495740554
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -9210832753355381119
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1681577546302008204
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -2881065961190747186
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -5925819684305973466
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 6351080544182553899
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 4496116130733773868
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -1949265888002852448
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 4852272819783964093
+    second: Giove plnt.005|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 6482056940914819471
+    second: Giove plnt.005|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 8033378560050805013
+    second: Giove plnt.005|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 937279323832424935
+    second: Giove plnt.005|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 764945286684972569
+    second: Giove plnt.005|Plan004|Take 001|BaseLayer
+  - first:
+      74: -2690504505944863955
+    second: Giove plnt.006|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -6322049264635495511
+    second: Giove plnt.006|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -9047181789399351696
+    second: Giove plnt.006|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -4599767461691705112
+    second: Giove plnt.006|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -8536759936837796227
+    second: Giove plnt.006|clssica|Take 001|BaseLayer
+  - first:
+      74: 6434410176493056582
+    second: Giove plnt.006|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 4646819802166866893
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -5508082923806007887
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -4295855022253738179
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -8247891211510348977
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 2765605015326437932
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -2705170997654157658
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 373510239291247912
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 9092965189651872345
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -6518010890511981801
+    second: Giove plnt.006|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 5870823132112303702
+    second: Giove plnt.006|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 6857753756822415061
+    second: Giove plnt.006|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 6645337056740289374
+    second: Giove plnt.006|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -9122142152167823181
+    second: Giove plnt.006|Plan004|Take 001|BaseLayer
+  - first:
+      74: -4601535717355705972
+    second: Giove plnt.007|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 3025352749223622039
+    second: Giove plnt.007|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -1045707743993887624
+    second: Giove plnt.007|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 5787932748390831560
+    second: Giove plnt.007|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 4271767055621748603
+    second: Giove plnt.007|clssica|Take 001|BaseLayer
+  - first:
+      74: -9209274827724406189
+    second: Giove plnt.007|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -3135721781949563312
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 4566464864453858471
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -6649345158735909811
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -7611343254287940733
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -344501816615240504
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -3565199892610228834
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 4329479405321143384
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -972180678881597001
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -3063318625245932446
+    second: Giove plnt.007|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -7076898720485837053
+    second: Giove plnt.007|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 6644476272544555589
+    second: Giove plnt.007|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 1299784093703032156
+    second: Giove plnt.007|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 6933176064171302603
+    second: Giove plnt.007|Plan004|Take 001|BaseLayer
+  - first:
+      74: 1669098982154386608
+    second: Giove plnt.008|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -712687759701221066
+    second: Giove plnt.008|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -3615713935462369283
+    second: Giove plnt.008|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -1798644226056426902
+    second: Giove plnt.008|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -1817047864895981042
+    second: Giove plnt.008|clssica|Take 001|BaseLayer
+  - first:
+      74: 6802075826915435696
+    second: Giove plnt.008|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 8852668414245505168
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 6250715126393625515
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 2309909347930122515
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 846545706937172952
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 2781496362072936559
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 3458618957386806500
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 1241062689000468807
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 7514307761221592543
+    second: Giove plnt.008|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 6119726446625448724
+    second: Giove plnt.008|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -418867368254924313
+    second: Giove plnt.008|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -3517781906308341820
+    second: Giove plnt.008|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 8733892116126745431
+    second: Giove plnt.008|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 9100807949602878358
+    second: Giove plnt.008|Plan004|Take 001|BaseLayer
+  - first:
+      74: 9009620219713976833
+    second: Classica plnt|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 3990021592585717583
+    second: Classica plnt|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 3004614663841170419
+    second: Classica plnt|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 5551196880869076728
+    second: Classica plnt|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -8812007905876030306
+    second: Classica plnt|clssica|Take 001|BaseLayer
+  - first:
+      74: 2937538033962696623
+    second: Classica plnt|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -1392982476424711094
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 800025829587549942
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -3750920400304886882
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -2307651300046928368
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 951843554393405776
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 7438496584938735723
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -5410021907406875470
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -9190821756019812748
+    second: Classica plnt|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 3816643547139907598
+    second: Classica plnt|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 5703850376173448161
+    second: Classica plnt|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -4299556915138353052
+    second: Classica plnt|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -156024760394161765
+    second: Classica plnt|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -4769646658447234951
+    second: Classica plnt|Plan004|Take 001|BaseLayer
+  - first:
+      74: 2431259921477766578
+    second: clssica|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 3994679774363557029
+    second: clssica|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 7598021704088680686
+    second: clssica|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -1288971645324532267
+    second: clssica|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 7067014110037063532
+    second: clssica|clssica|Take 001|BaseLayer
+  - first:
+      74: -8020550927610714564
+    second: clssica|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 2699766344508955710
+    second: clssica|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 1789181100186152526
+    second: clssica|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -6303990707515884519
+    second: clssica|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 4254914380389416594
+    second: clssica|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 540230503155010273
+    second: clssica|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -7978470684197772478
+    second: clssica|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -3198180969532199358
+    second: clssica|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -6664564449354039270
+    second: clssica|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -4515507771365344856
+    second: clssica|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1345647126451142724
+    second: clssica|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -5080402828247588393
+    second: clssica|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 4919797773167135018
+    second: clssica|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 1780848455239653582
+    second: clssica|Plan004|Take 001|BaseLayer
+  - first:
+      74: 6621578013657941396
+    second: clssica plnt|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -2528722316607783882
+    second: clssica plnt|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -3968155879200433442
+    second: clssica plnt|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -6524369079515263847
+    second: clssica plnt|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 1468643047927828390
+    second: clssica plnt|clssica|Take 001|BaseLayer
+  - first:
+      74: -4665758563602115231
+    second: clssica plnt|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 6771687124451906903
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -3886580302664085503
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 721644651901510463
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -703998833954360279
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -4878601948601511931
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -3376860508546430091
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 4199254379246890065
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 4478185146565637971
+    second: clssica plnt|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 801741068232436782
+    second: clssica plnt|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 4194170324831477971
+    second: clssica plnt|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -5902296636807653114
+    second: clssica plnt|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 678201980325337235
+    second: clssica plnt|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -897948285192783762
+    second: clssica plnt|Plan004|Take 001|BaseLayer
+  - first:
+      74: -7004037749373618997
+    second: clssica.001|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 7206079401292461226
+    second: clssica.001|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 4573938354894728592
+    second: clssica.001|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -7206818775470996212
+    second: clssica.001|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -3997950390753144436
+    second: clssica.001|clssica|Take 001|BaseLayer
+  - first:
+      74: -4718138758545214538
+    second: clssica.001|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -4002276305370486503
+    second: clssica.001|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -17870177890922839
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8885131785173033348
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 5691981136062688864
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 735330902920468713
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -768902328618672409
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 510049318179879956
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -3316664869240420540
+    second: clssica.001|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -7077093410062633990
+    second: clssica.001|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -8519406901642449535
+    second: clssica.001|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -2158779161278771985
+    second: clssica.001|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -2243922306522988676
+    second: clssica.001|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -7345897528843861268
+    second: clssica.001|Plan004|Take 001|BaseLayer
+  - first:
+      74: -2012784328534408978
+    second: Clssicaaa|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 6630958044216020510
+    second: Clssicaaa|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -1285070058980965855
+    second: Clssicaaa|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 7066885705958837738
+    second: Clssicaaa|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 7691592221623719846
+    second: Clssicaaa|clssica|Take 001|BaseLayer
+  - first:
+      74: -8772536146008920785
+    second: Clssicaaa|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 3695320372627361176
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 3643529252790824649
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8370545193000751934
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -4229440598399527582
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -3051970171836119434
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -8789635718796301253
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -8994342617983321118
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -5924669551920554165
+    second: Clssicaaa|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -5264528923081702705
+    second: Clssicaaa|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -8196027627700256436
+    second: Clssicaaa|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 5644000094490055184
+    second: Clssicaaa|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -6794392787298347878
+    second: Clssicaaa|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -3897531556683301615
+    second: Clssicaaa|Plan004|Take 001|BaseLayer
+  - first:
+      74: -5535436597755229968
+    second: Clsssic|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -5054600460522312347
+    second: Clsssic|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 3264966232496501138
+    second: Clsssic|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 6294501470414351938
+    second: Clsssic|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -2116046126653879811
+    second: Clsssic|clssica|Take 001|BaseLayer
+  - first:
+      74: 6475978558534872627
+    second: Clsssic|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 7618371418436017804
+    second: Clsssic|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -84167527499431279
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -6535555770257899393
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 475239869411675365
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 6370399002335847447
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 3109179250864742423
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -3863823909689076517
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 8727613429829031226
+    second: Clsssic|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -4669524660611887018
+    second: Clsssic|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 7531392465024344150
+    second: Clsssic|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 9184923394951343072
+    second: Clsssic|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -225743176692788802
+    second: Clsssic|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -3188358431261820797
+    second: Clsssic|Plan004|Take 001|BaseLayer
+  - first:
+      74: 3715348481021312974
+    second: Ligne004|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -8547521773275333401
+    second: Ligne004|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 6762434136431129847
+    second: Ligne004|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -1979376444418482493
+    second: Ligne004|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 9184512068010608456
+    second: Ligne004|clssica|Take 001|BaseLayer
+  - first:
+      74: -4413792694577958311
+    second: Ligne004|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -2684341724916424757
+    second: Ligne004|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 5354330923828983993
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -8957840640511615104
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -1365551050482103085
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -8408167437097317613
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 245737812871288575
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 1602631088376227765
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 3221870984279551832
+    second: Ligne004|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -2511317609247152310
+    second: Ligne004|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 7876560982370165720
+    second: Ligne004|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 3287948762602608366
+    second: Ligne004|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 7605643863324065749
+    second: Ligne004|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 8932981133320133347
+    second: Ligne004|Plan004|Take 001|BaseLayer
+  - first:
+      74: -3127027521392491707
+    second: lssica pknt|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -2143406209404044590
+    second: lssica pknt|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 5104191460083099315
+    second: lssica pknt|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 6777167626806174478
+    second: lssica pknt|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 2693493503550106333
+    second: lssica pknt|clssica|Take 001|BaseLayer
+  - first:
+      74: 3197033701566386609
+    second: lssica pknt|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 1621121481005868259
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 7775802640125182733
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -4425017976545630791
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 7221636257112844318
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 3640133781066204334
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 13224584504818669
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -3791543346948254801
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -7904769859550462046
+    second: lssica pknt|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -2711136606144604780
+    second: lssica pknt|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -7128585474726187895
+    second: lssica pknt|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 1134603032416797475
+    second: lssica pknt|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -4134156485722848383
+    second: lssica pknt|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 5239667270158368805
+    second: lssica pknt|Plan004|Take 001|BaseLayer
+  - first:
+      74: 189647315666242687
+    second: lssioxa plnt1|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -2603877339834555165
+    second: lssioxa plnt1|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 5658878407452773722
+    second: lssioxa plnt1|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -6417829492242067640
+    second: lssioxa plnt1|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 118551661908409835
+    second: lssioxa plnt1|clssica|Take 001|BaseLayer
+  - first:
+      74: -239752989624975850
+    second: lssioxa plnt1|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -5739951793660159802
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 7796689271215896183
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1608902756888190651
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -3245407876479876404
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 6012316557043943546
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -3926349725198362735
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 1723505121622929564
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -8497878774664857359
+    second: lssioxa plnt1|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 457751893064789699
+    second: lssioxa plnt1|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 6615738001865802607
+    second: lssioxa plnt1|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 4040859209620908180
+    second: lssioxa plnt1|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -615260410047380770
+    second: lssioxa plnt1|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 5323072678922647847
+    second: lssioxa plnt1|Plan004|Take 001|BaseLayer
+  - first:
+      74: -3293862008853853371
+    second: Plan004|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 283513600658073951
+    second: Plan004|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: -1800311133993966720
+    second: Plan004|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -5899970152391112097
+    second: Plan004|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -8494359406668031552
+    second: Plan004|clssica|Take 001|BaseLayer
+  - first:
+      74: 7997592773728870199
+    second: Plan004|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -2759111555134970269
+    second: Plan004|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 1686564292067211660
+    second: Plan004|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 6404080236944256123
+    second: Plan004|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 2882783995857170380
+    second: Plan004|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -4242010235413495656
+    second: Plan004|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: 8345559371359631994
+    second: Plan004|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -7323263439983073868
+    second: Plan004|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 7476782423028865912
+    second: Plan004|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -6376973049097691239
+    second: Plan004|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 2872040067860335200
+    second: Plan004|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -2366666629421407236
+    second: Plan004|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 2138085080293381188
+    second: Plan004|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 5165857357656880537
+    second: Plan004|Plan004|Take 001|BaseLayer
+  - first:
+      74: -5966602386182902009
+    second: Giove plnt|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: 1825708190872890994
+    second: Giove plnt|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 8800229120216805450
+    second: Giove plnt|clssica.001|Take 001|BaseLayer
+  - first:
+      74: 4419139259002481519
+    second: Giove plnt|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -3188283967747911528
+    second: Giove plnt|clssica|Take 001|BaseLayer
+  - first:
+      74: -1112712598168724552
+    second: Giove plnt|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 6842670162259942411
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 6341668612134207623
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1341095614169564790
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 6204193472992659656
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -8603730102711673536
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -3072217972513533220
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 5139179222733826393
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: 2899543171084079361
+    second: Giove plnt|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -2793661290367882397
+    second: Giove plnt|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 7511999668265367011
+    second: Giove plnt|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 6083525964771179365
+    second: Giove plnt|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: 5095259690255562406
+    second: Giove plnt|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: -6112666242444378361
+    second: Giove plnt|Plan004|Take 001|BaseLayer
+  - first:
+      74: -1355199368616873559
+    second: Giove plnt.001|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -4716278074778992058
+    second: Giove plnt.001|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 7153697535787795953
+    second: Giove plnt.001|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -7972003753296972088
+    second: Giove plnt.001|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: 666385317675621343
+    second: Giove plnt.001|clssica|Take 001|BaseLayer
+  - first:
+      74: -681415679107501664
+    second: Giove plnt.001|Clsssic|Take 001|BaseLayer
+  - first:
+      74: -4763912982456687613
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 831979891578111430
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 5462465259168350010
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: 3596773313319274416
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: 4835398171737208868
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -4650500990700227427
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: 7370969279092884259
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -6808305136742028086
+    second: Giove plnt.001|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: 3935057035415316198
+    second: Giove plnt.001|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 7410212468645595295
+    second: Giove plnt.001|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 5860720991662644782
+    second: Giove plnt.001|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -7301951462713615282
+    second: Giove plnt.001|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 3432130391818313137
+    second: Giove plnt.001|Plan004|Take 001|BaseLayer
+  - first:
+      74: -4626926296361163582
+    second: Pot|Classica plnt|Take 001|BaseLayer
+  - first:
+      74: -1781970121533144794
+    second: Pot|clssica plnt|Take 001|BaseLayer
+  - first:
+      74: 5159190368407063639
+    second: Pot|clssica.001|Take 001|BaseLayer
+  - first:
+      74: -3774903309540609287
+    second: Pot|Clssicaaa|Take 001|BaseLayer
+  - first:
+      74: -7156020455698163568
+    second: Pot|clssica|Take 001|BaseLayer
+  - first:
+      74: -8080694130760302783
+    second: Pot|Clsssic|Take 001|BaseLayer
+  - first:
+      74: 6443707604299519377
+    second: Pot|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -8395307532203966281
+    second: Pot|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -6744341116636570012
+    second: Pot|Giove plnt|Take 001|BaseLayer.005
+  - first:
+      74: -3685147167254154760
+    second: Pot|Giove plnt|Take 001|BaseLayer.007
+  - first:
+      74: -5205226656405561543
+    second: Pot|Giove plnt|Take 001|BaseLayer.009
+  - first:
+      74: -5094204992984129241
+    second: Pot|Giove plnt|Take 001|BaseLayer.011
+  - first:
+      74: -4323207311664865413
+    second: Pot|Giove plnt|Take 001|BaseLayer.013
+  - first:
+      74: -5922946775698854564
+    second: Pot|Giove plnt|Take 001|BaseLayer.015
+  - first:
+      74: -1890904035830760458
+    second: Pot|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 4573503732379831581
+    second: Pot|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -7046014646798029789
+    second: Pot|lssica pknt|Take 001|BaseLayer
+  - first:
+      74: -7236449840959823795
+    second: Pot|lssioxa plnt1|Take 001|BaseLayer
+  - first:
+      74: 1998055407133955949
+    second: Pot|Plan004|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
