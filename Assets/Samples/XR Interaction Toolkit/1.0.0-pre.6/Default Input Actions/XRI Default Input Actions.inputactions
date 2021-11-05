@@ -897,6 +897,33 @@
                     "isPartOfComposite": true
                 }
             ]
+        },
+        {
+            "name": "MENU",
+            "id": "26aec5f7-b119-412c-86d2-4811367431cb",
+            "actions": [
+                {
+                    "name": "Toggle",
+                    "type": "Value",
+                    "id": "24875d1d-7f03-4be4-a464-bfcee1c763b8",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ff629c2b-26b4-45cd-8031-01a6c05c9c40",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
