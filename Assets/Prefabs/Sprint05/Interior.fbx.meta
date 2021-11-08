@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 7fb0ef5d3be6eb6418619164b1c3062e
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 6957869224859621746
+    second: Grass1|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -889827432882795545
+    second: Grass1|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1359191547642163692
+    second: Grass1|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -8757933453956484661
+    second: Grass1|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -5431068319333447816
+    second: Grass1|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 551107003796879664
+    second: Grass1|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -3702778287517497364
+    second: Grass1|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 7883370475016901664
+    second: Grass1|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 1107317265948375828
+    second: Grass1|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 3922377018281056615
+    second: Grass1|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1785448886009074254
+    second: Grass1|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -1774584051719009564
+    second: Grass1|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -2784522212934247738
+    second: Grass2|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -585266071235367997
+    second: Grass2|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 1303987305814628884
+    second: Grass2|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 8301177922747790985
+    second: Grass2|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -9218132110087916092
+    second: Grass2|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -1237993847333349858
+    second: Grass2|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 7471042588780053818
+    second: Grass2|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 3649281511983044835
+    second: Grass2|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -8209669375913024388
+    second: Grass2|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -4311492922017902301
+    second: Grass2|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 9107346073365205843
+    second: Grass2|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -6165321134981200319
+    second: Grass2|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 6443707604299519377
+    second: Pot|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -8395307532203966281
+    second: Pot|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 7997889278607718137
+    second: Pot|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 7441189155229716458
+    second: Pot|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -4871404049449199080
+    second: Pot|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 7062604031415746403
+    second: Pot|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 5289701499504536771
+    second: Pot|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 5854891007316650299
+    second: Pot|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -6960316895709840455
+    second: Pot|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -1890904035830760458
+    second: Pot|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 6760554348951026031
+    second: Pot|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 4573503732379831581
+    second: Pot|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -734712545226473445
+    second: pot3|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -2790208801372893370
+    second: pot3|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8254683604394776610
+    second: pot3|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 2411145784992946589
+    second: pot3|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -3604325310897617723
+    second: pot3|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -6692424570192963811
+    second: pot3|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -6289613450133035276
+    second: pot3|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -8076335759225553174
+    second: pot3|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 761224695108227068
+    second: pot3|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 5989573134651925494
+    second: pot3|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1582865707777783085
+    second: pot3|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 6934825809824346034
+    second: pot3|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -867312888848728435
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -6252993421164986158
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1101332646559353108
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -9010440419432757419
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 8742004049949758644
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -8074142038779764934
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 4277729568852046514
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -9078970306770108299
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 4261991110819000957
+    second: Grass1.001|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -3570333603508090626
+    second: Grass1.001|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -3299495464722430506
+    second: Grass1.001|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 6311135784480644956
+    second: Grass1.001|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 1620185828388063815
+    second: Pot.001|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -5202309993596811303
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -7021468769437614611
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 8095168063221791
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 7843613293044755195
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -4888202753038093160
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -2343994150230990701
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 3483557308642648686
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 4115976232301953533
+    second: Pot.001|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -2185496017546165098
+    second: Pot.001|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -3540239070017621658
+    second: Pot.001|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -7004901621655126151
+    second: Pot.001|Ligne004|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: a7c0b5a9416f3514884611509146f3bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14
+    second: {fileID: 2100000, guid: b3ce43760c0623a43a93a52601ee18b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed
+    second: {fileID: 2100000, guid: 980a6ebb234db90478d35ecae71ab7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 89d31e85d0264de4388b537bade0d514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal
+    second: {fileID: 2100000, guid: 0fab14aa02ca4594a9b91cb18c3e1c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet 01
+    second: {fileID: 2100000, guid: adb2b980361ae6f459b31b5a9e0afc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chestnut fine wood texture
+    second: {fileID: 2100000, guid: 3576bd91a56b5af4cb618f5360e620ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissions
+    second: {fileID: 2100000, guid: f448947b906755540aceb71d7c9772b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissions.001
+    second: {fileID: 2100000, guid: 08a6108c3e35b4c4a8f8c0089f6289f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower Vase_Fabric White
+    second: {fileID: 2100000, guid: aa6e00067d633b342936dfcc01e79af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower Vase_Flower Petals
+    second: {fileID: 2100000, guid: 1ac416728abb02642bbfad5f7fa8c5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower Vase_Stem
+    second: {fileID: 2100000, guid: 49a9811df274caa4094639d95fa01762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower Vase_Vase
+    second: {fileID: 2100000, guid: 8fc364a5a9a83454fa8db5f32d56a8d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FLower Vase_Yellow Fabric
+    second: {fileID: 2100000, guid: b50f4b3e12c40564cadd48048a645ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric
+    second: {fileID: 2100000, guid: f03df0e3485cbfe46bd2c4b98e29e3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric01 PBR
+    second: {fileID: 2100000, guid: a60023e8ff03d5f47aa9cb84a6ba98ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: e3436372b394b004d8618218887516fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar_Artificial Marble 1
+    second: {fileID: 2100000, guid: 701701fe40ec3304baa2e821f1cd0ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar_Artificial Marble 2
+    second: {fileID: 2100000, guid: 64097dca6cecef144bf19e5e344ec225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar_Leaf
+    second: {fileID: 2100000, guid: 2e9dfa050e60d434ab909c33645070e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar_Stem
+    second: {fileID: 2100000, guid: 293b63de83ec44a4a80445cc910a25bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maple wood texture
+    second: {fileID: 2100000, guid: 3f583084ce49ebb4e8d5adfac0060871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maple wood texture.001
+    second: {fileID: 2100000, guid: 2700bbd7ecc075c41befe18ddd708ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 08117624319f0474bb810c09afb0b353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 6cf456c3afd328f49b5eb0ee8f3c1b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: f8213b677e8ddb64a98f87577eab8103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 1066a06f5f764ba4086e91e9ee3b0848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 4a8d12503acb05748b45cc3ed8c1785b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: f33eeead767521540af0abdbba040540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 4652db4038ceb9241aa07773f11efbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: 88f8531cf2fdd144c97c1b2afc773565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: 998eb7ec0026fe949896ccab666b44b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Our_Color_Pallette
+    second: {fileID: 2100000, guid: fb64f2b5742b0324fae6fefb4c880a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Oxford_Oversized_Bookcase_Material_27
+    second: {fileID: 2100000, guid: b675ba04a60a14947b389adb5a20e51c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Oxford_Oversized_Bookcase_Material_27.002
+    second: {fileID: 2100000, guid: 8521dc61a95d5fa45ae93bd4dd1dc82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Oxford_Oversized_Bookcase_Material_33
+    second: {fileID: 2100000, guid: 364e8448aebc05b43ba6625aca42db3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Oxford_Oversized_Bookcase_Material_64
+    second: {fileID: 2100000, guid: 10ba7c58f71f79049acd1ab9e65e7018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand orange
+    second: {fileID: 2100000, guid: 30e4d7c13ef82d04e80e7abeddca7c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shade
+    second: {fileID: 2100000, guid: b922b8943ab8296488578dff9ad05be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transparent Glass
+    second: {fileID: 2100000, guid: 79857f64049c70a478836d942f3f4551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Twig.001
+    second: {fileID: 2100000, guid: 7cd8559c8c4f0b142b05bf6a70083ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodenTips
+    second: {fileID: 2100000, guid: b40484df81aff914b80cea2a1325591c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray3_
+    second: {fileID: 2100000, guid: 2783b49ce080be84bbb869f48e21defc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Gray5_
+    second: {fileID: 2100000, guid: 67f2236bff049fb4b85785677ceb4a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Khaki_
+    second: {fileID: 2100000, guid: bb43490f31dfd7b4c97f30e7db36fd5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Sand_
+    second: {fileID: 2100000, guid: 313a45cc30a5d2e4d887e64a0df4473c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Fabric023_2K-PNG.001
+    second: {fileID: 2100000, guid: 4c5456736856e5148a5150f9f87599ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Fabric023_2K-PNG.003
+    second: {fileID: 2100000, guid: 5faa37476da0c0c48a9f4308cd021960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Fabric023_2K-PNG.004
+    second: {fileID: 2100000, guid: 845c1efaefd2c8146bc388914265de0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Marble015_2K-PNG
+    second: {fileID: 2100000, guid: 028021f9dae3a234fb0cd702ac740b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Marble025_2K-PNG
+    second: {fileID: 2100000, guid: 22a6ab8a77d16b440a961ae278b1a623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Metal038_2K-PNG
+    second: {fileID: 2100000, guid: e19a6a1f22658874a86c9f6214992518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Metal038_2K-PNG.001
+    second: {fileID: 2100000, guid: d03456be74334c249b27e603e9775ae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_PaintedPlaster017_2K-PNG
+    second: {fileID: 2100000, guid: 81dced2942feba9419301d461d1c78e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic010_2K-PNG.002
+    second: {fileID: 2100000, guid: b04ddd3ff8aca2a4db258753f3840d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic010_2K-PNG.005
+    second: {fileID: 2100000, guid: 2588ddb08ac946a40a0994a1887a58cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic010_2K-PNG.006
+    second: {fileID: 2100000, guid: 449146c7f3f615c45bb254f845b0d462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic010_2K-PNG.007
+    second: {fileID: 2100000, guid: 8cf1afb58c0cb85448cf76d0e86aa564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic010_2K-PNG.008
+    second: {fileID: 2100000, guid: fe06ed485218dc044b18fda8f453fc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Porcelain002_2K-PNG
+    second: {fileID: 2100000, guid: f34aaf658f42a3142963e3e586ef28b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book cover
+    second: {fileID: 2100000, guid: 79a3b486c8acc2d489f218b3341c48e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 9e63cd3565affb042b33ac2b8e1dbe84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome blue
+    second: {fileID: 2100000, guid: ad0df95aba2eb78488a20043cd37f13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome goldy
+    second: {fileID: 2100000, guid: e763182c46a38744daae2ad933e93e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome green
+    second: {fileID: 2100000, guid: cf663bf85815a6a4f9188ccd08faadb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emissions
+    second: {fileID: 2100000, guid: 02c149be641bf2e4c9b4e67325819eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: 9ea4a466c1c46e442afd0dc1be2dcbbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_glass
+    second: {fileID: 2100000, guid: ad18f07ba6221c447a63d5a35c9777b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_greenplastic
+    second: {fileID: 2100000, guid: 31951652d04903a4fb62f5a07934081d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_light
+    second: {fileID: 2100000, guid: 929a482db1d3d444d83061bf6253985b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_reflector
+    second: {fileID: 2100000, guid: 77d69e3db66da6f448f309aecdaa46e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_wood
+    second: {fileID: 2100000, guid: 00456cbe7cdd2564b879d8cfc467bd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves
+    second: {fileID: 2100000, guid: 8bf9286820f37374abdb4ef77b00f1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: c503088ea5d415642b82a166a24b885c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.chrome
+    second: {fileID: 2100000, guid: cbcebbf6f1d4c7a408b01ce83915f575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.dark
+    second: {fileID: 2100000, guid: ef276485834b69945a0d6242bbdab43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.gold
+    second: {fileID: 2100000, guid: 3f83d9b805b7cbf499ddbfbc80c6ee7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint black
+    second: {fileID: 2100000, guid: d7c9db1f54d539240a6480b61acd295a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pot concrete
+    second: {fileID: 2100000, guid: c707fe8b0b0b2a944a159859faaaeaf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stacked paper
+    second: {fileID: 2100000, guid: 6aabcc7b45b6b2b42895a2d5ef7b1667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_blue
+    second: {fileID: 2100000, guid: e0c6be3a85081dd498c9b123be131b7d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

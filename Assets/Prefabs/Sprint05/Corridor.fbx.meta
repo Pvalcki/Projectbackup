@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 7b904ea498120dc45bcb99bc3852acef
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -2141960380572374183
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 3126516150375852739
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 9156775880565478114
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 1819251785663046941
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 3176252892604223393
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 5682698102581579300
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -3788726609755390845
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -6355967535642851568
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 9014479115706271693
+    second: Giove plnt.002|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 3065626091831934685
+    second: Giove plnt.002|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 5075324160260289733
+    second: Giove plnt.002|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 1408143790775405526
+    second: Giove plnt.002|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 4982342158043533923
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -7475922020700456417
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -2696628955512224970
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 997012199706633414
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -1353104375786386194
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -8672805411288432751
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -1154323666973501891
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 7093051439373559208
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 1240200685429906089
+    second: Giove plnt.003|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 2669927042001138567
+    second: Giove plnt.003|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -7651807452819268644
+    second: Giove plnt.003|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -8696245692434312267
+    second: Giove plnt.003|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -4745207832323756613
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 7787319434148336596
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -8584411851006117523
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 7261338749221706292
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -6169468315205312025
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 9005792535015092964
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 536022773062132195
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 8729327543947429759
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -2338772064410665525
+    second: Giove plnt.004|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 8532778197565318765
+    second: Giove plnt.004|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1937266280838226082
+    second: Giove plnt.004|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 1644468365226832285
+    second: Giove plnt.004|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -5099415127495740554
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -9210832753355381119
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -8000774529047796041
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 394698825439745556
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 307679012274577968
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 9108401078422411648
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 3734453808593799844
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -7561577710261859546
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 2551070323417994759
+    second: Giove plnt.005|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 4852272819783964093
+    second: Giove plnt.005|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -132324937571124558
+    second: Giove plnt.005|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 6482056940914819471
+    second: Giove plnt.005|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 4646819802166866893
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -5508082923806007887
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8963873635037270465
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 2560857106534977212
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -8491173554040062239
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 3797790378626342542
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -8032250970677629347
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -352501815158490790
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -5358823980922796677
+    second: Giove plnt.006|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -6518010890511981801
+    second: Giove plnt.006|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1877388698709241403
+    second: Giove plnt.006|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 5870823132112303702
+    second: Giove plnt.006|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -3135721781949563312
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 4566464864453858471
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 8333463978604301380
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 2598791736263468015
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -4537560493200791552
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 5611742441844480285
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 7828667881806709960
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -5074764571625519868
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -5303132046976091009
+    second: Giove plnt.007|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -3063318625245932446
+    second: Giove plnt.007|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 2423182876133214025
+    second: Giove plnt.007|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -7076898720485837053
+    second: Giove plnt.007|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 2241378814483191391
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -4222248127701908289
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -1654567004502271898
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -3061580103096751924
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 8655994333863816267
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 4040229701992501434
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -126036953608737748
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 4605102037619666426
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -7343123217049279919
+    second: Plant.Ground|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -5614870069863358707
+    second: Plant.Ground|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -188508187210114919
+    second: Plant.Ground|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -6886678181139800096
+    second: Plant.Ground|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 325493531391809766
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -6905893555864490635
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -3071845290841334698
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 5034903743202007260
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -4193381779922371173
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 8887402851492561424
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -2447486472656916697
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -1830659353838010872
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -5233665678412627829
+    second: Plant.Ground.001|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 3131937647534993528
+    second: Plant.Ground.001|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -4962886494102947351
+    second: Plant.Ground.001|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -1577757840684838549
+    second: Plant.Ground.001|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -5424195172233696320
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -8264215947420694691
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -452256383433587246
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -3404393298092974204
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 838443385342351043
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -2980706764040815206
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 5027263292896375343
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 8252250808296940238
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 6958733370847268072
+    second: Plant.Ground.002|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -3590721297164408416
+    second: Plant.Ground.002|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 1488327433711087367
+    second: Plant.Ground.002|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: -3764453930739974845
+    second: Plant.Ground.002|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -2311289145892698916
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -6063674258855086445
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -194731523642017433
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 7583453417723777494
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 1227638707230797515
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -8341908381426827515
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -1051054582496955910
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 827068951538720871
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -1595859464304223434
+    second: Plant.Ground.003|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 7036893689344278485
+    second: Plant.Ground.003|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -3464494441079032369
+    second: Plant.Ground.003|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 8183101838003480902
+    second: Plant.Ground.003|Ligne004|Take 001|BaseLayer
+  - first:
+      74: 1778109426839653766
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 627714376763020585
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -8783334391708684076
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -1292966334305163754
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -3492073573645004954
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -8817380003864257893
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 4469110867703341478
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 885247088518486213
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: 8663162177391398504
+    second: Plant.Ground.004|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 1547118347843462116
+    second: Plant.Ground.004|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 5053512284658786260
+    second: Plant.Ground.004|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 2279863539365204635
+    second: Plant.Ground.004|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -6436935643390247810
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -7717472712041630031
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: 6977127339635518316
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: -5741144060109236194
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 4749122038054764017
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 5423112913430661691
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -7005888550862160793
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: 7145249906993758080
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -3913079669076735396
+    second: Plant.Ground.005|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 3563475477702397466
+    second: Plant.Ground.005|Ligne001|Take 001|BaseLayer
+  - first:
+      74: -863834980724468873
+    second: Plant.Ground.005|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 5631093681700931649
+    second: Plant.Ground.005|Ligne004|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
