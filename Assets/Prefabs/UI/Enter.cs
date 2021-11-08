@@ -7,6 +7,7 @@ public class Enter : MonoBehaviour
     public GameObject Panel;
     public GameObject Menu;
     public GameObject Menu2;
+    public GameObject Trigger;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -24,7 +25,11 @@ public class Enter : MonoBehaviour
         {
             Menu2.SetActive(true);
         }
+
+        Trigger.SetActive(false);
     }
+
+
 
 
 }

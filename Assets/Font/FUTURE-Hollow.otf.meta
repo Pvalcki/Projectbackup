@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 482eb38646a674b4a894e2ea1e7cb96a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FUTURE-Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44bc34c2abd2ea044bbc19582c4f6e6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
