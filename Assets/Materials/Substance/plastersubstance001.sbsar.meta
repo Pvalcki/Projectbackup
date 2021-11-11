@@ -235,13 +235,13 @@ ScriptedImporter:
       - name: _Metallic
         float: 1
       - name: _MetallicRemapMax
-        float: 1
+        float: 0.6849315
       - name: _MetallicRemapMin
         float: 0
       - name: _NormalMapSpace
         float: 0
       - name: _NormalScale
-        float: 0.17
+        float: 0.4
       - name: _OpaqueCullMode
         float: 2
       - name: _PPDLodThreshold

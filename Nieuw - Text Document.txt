@@ -1,0 +1,9 @@
+Setting: Het verhaal situeert zich in 2070 op Mars in het Ziekenhuis Nebule. De mensheid is zijn eerste stappen aan het zetten bij het kolonialiseren van Mars. 
+Momenteel zijn we in het process met opbouwen van een leefbare omgeving. Met onze eerste patient (Ellis Bardem) gaat het echter iets minder. 
+Zijn familie op aarde heeft hem in de steek gelaten. En hij heeft zich enkele dagen voordien het hoofd gestoten op het werk. Hij is met een burn-out toegekomen in ons Ziekenhuis.
+Het is aan jou als spectator om hem een check up te geven en de juiste keuzes te maken zodat de scene tot een goed einde komt.
+
+Scene 1: 
+- Start met Ron (AI Assistant Robot). Ron situeert je in de wereld en legt uit hoe de game mechanics in elkaar zitten. Hij legt kort uit wie je patient is en wat je moet uitvoeren op de patient (Daily health check up). 
+Je gaat als spectator vervolgens een nurse helpen om de juiste beslissingen te nemen.
+- Ron verwijst je naar een cirkel. je moet vervolgens op de cirkel gaan staan om een startscherm (hologram) in beeld te brengen.
