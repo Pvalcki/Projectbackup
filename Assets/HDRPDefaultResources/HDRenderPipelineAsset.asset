@@ -71,12 +71,12 @@ MonoBehaviour:
       m_SchemaId:
         m_Id: With3Levels
     supportVolumetrics: 1
-    supportLightLayers: 0
+    supportLightLayers: 1
     lightLayerName0: Light Layer default
     lightLayerName1: Light Layer 1
     lightLayerName2: Light Layer 2
     lightLayerName3: Light Layer 3
-    lightLayerName4: Light Layer 4
+    lightLayerName4: Character
     lightLayerName5: Light Layer 5
     lightLayerName6: Light Layer 6
     lightLayerName7: Light Layer 7
