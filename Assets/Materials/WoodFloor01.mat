@@ -240,7 +240,7 @@ Material:
     - _LinkDetailsWithBase: 1
     - _MaterialID: 1
     - _Metallic: 0
-    - _MetallicRemapMax: 0
+    - _MetallicRemapMax: 0.0427899
     - _MetallicRemapMin: 0
     - _Mode: 0
     - _NormalMapSpace: 0
@@ -260,8 +260,8 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.029
-    - _SmoothnessRemapMax: 0.71876323
-    - _SmoothnessRemapMin: 0
+    - _SmoothnessRemapMax: 0.94437313
+    - _SmoothnessRemapMin: 0.00427899
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
