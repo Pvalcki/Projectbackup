@@ -1,5 +1,10 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+    "com.unity.adaptiveperformance": "2.2.1",
+    "com.unity.adaptiveperformance.samsung.android": "2.2.1",
+>>>>>>> Stashed changes
     "com.unity.cinemachine": "2.7.8",
     "com.unity.collab-proxy": "1.9.0",
     "com.unity.ide.rider": "3.0.7",
