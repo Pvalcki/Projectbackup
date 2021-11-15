@@ -242,7 +242,7 @@ ScriptedImporter:
       - name: _NormalMapSpace
         float: 0
       - name: _NormalScale
-        float: 0.39
+        float: 1.26
       - name: _OpaqueCullMode
         float: 2
       - name: _PPDLodThreshold

@@ -6,11 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Hospital_01.unity
-    guid: a234ecbc0db883e439d5077f43b458e6
+    path: Assets/Scenes/Hospital_Testing_HDRP_02.unity
+    guid: ac3248129ae8ae64f87b7b7c351da7ff
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cc560a11a2972a948b05ebffa45187e9, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4902d673742bae4478d98703e218f759, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: a8787a33580d114439cd7534af46202f, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: fcc8b24f80cf8364295c29c35e810848, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: abe453ecb56a0fd49833521f6fd72379, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0692563a62e338e4f93314838b559f3f, type: 2}
