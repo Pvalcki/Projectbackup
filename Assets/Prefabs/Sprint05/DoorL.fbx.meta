@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: eddf4decacf068443a7f2df0aa078ced
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -3469285305960807875
+    second: Door_Cntrl.L_OPEN
+  - first:
+      74: 4523851270415742150
+    second: Door_Cntrl.L_CLOSE
+  - first:
+      74: -8900130902758018719
+    second: Door_Cntrl.L|D
+  - first:
+      74: 1424551629790463836
+    second: Door_Cntrl.L|Door_Cntrl.L_CLOSE
+  - first:
+      74: 899468867768706371
+    second: Door_Cntrl.L|Door_Cntrl.L_OPEN
+  - first:
+      74: -3849888325682466346
+    second: Door_Cntrl.L|Door_Cntrl.R_CLOSE
+  - first:
+      74: -6775827535771656955
+    second: Door_Cntrl.L|Door_Cntrl.R_OPEN.001
+  - first:
+      74: -266155200260685834
+    second: Door_Cntrl.L|DOPEN.001
+  - first:
+      74: -5602688905179291479
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: 2131836813183706220
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -3790499960556219554
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 2017292174576992782
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: 5295012167349668663
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: 1849360902481406947
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: 2388019575238205658
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -6516069857456627329
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -9176183175644862622
+    second: Door_Cntrl.L|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: -3774995044934546377
+    second: Door_Cntrl.L|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 6520248754339965883
+    second: Door_Cntrl.L|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 6340477942956076820
+    second: Door_Cntrl.L|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -2065939892914620958
+    second: DoorLeft|D
+  - first:
+      74: 894417711665616082
+    second: DoorLeft|Door_Cntrl.L_CLOSE
+  - first:
+      74: 6170699919545257007
+    second: DoorLeft|Door_Cntrl.L_OPEN
+  - first:
+      74: 2494292194589225028
+    second: DoorLeft|Door_Cntrl.R_CLOSE
+  - first:
+      74: -241289089470099167
+    second: DoorLeft|Door_Cntrl.R_OPEN.001
+  - first:
+      74: 3151212440506000974
+    second: DoorLeft|DOPEN.001
+  - first:
+      74: 7440314277838620439
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer
+  - first:
+      74: -3034240440375552955
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.001
+  - first:
+      74: -4651445764624826798
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.002
+  - first:
+      74: 1397010120853744570
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.003
+  - first:
+      74: -6391798912422548231
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.004
+  - first:
+      74: -956553647687216074
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.006
+  - first:
+      74: -8887872717188092412
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.010
+  - first:
+      74: -1165663463828230403
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.014
+  - first:
+      74: -7328478019310677212
+    second: DoorLeft|Giove plnt|Take 001|BaseLayer.017
+  - first:
+      74: 2249469974760449893
+    second: DoorLeft|Ligne001|Take 001|BaseLayer
+  - first:
+      74: 6675748796347464674
+    second: DoorLeft|Ligne001|Take 001|BaseLayer.002
+  - first:
+      74: 7985086105769792958
+    second: DoorLeft|Ligne004|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
