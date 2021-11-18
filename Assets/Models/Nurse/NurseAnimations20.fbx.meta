@@ -358,7 +358,7 @@ ModelImporter:
       name: Arguing02.003
       takeName: Arguing02.003
       internalID: 0
-      firstFrame: 0
+      firstFrame: 1
       lastFrame: 624
       wrapMode: 0
       orientationOffsetY: 0
@@ -387,7 +387,7 @@ ModelImporter:
       name: Arguing01.003
       takeName: Arguing01.003
       internalID: 0
-      firstFrame: 0
+      firstFrame: 1
       lastFrame: 624
       wrapMode: 0
       orientationOffsetY: 0
