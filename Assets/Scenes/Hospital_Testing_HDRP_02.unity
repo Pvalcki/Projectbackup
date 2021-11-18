@@ -4363,7 +4363,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &219941002
 BoxCollider:
@@ -12331,7 +12331,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &1118902974
 BoxCollider:
@@ -13557,6 +13557,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: -2146373066863194218, guid: 962d180587e9a4f49b9ada313f020480, type: 3}
+    - target: {fileID: -3821253740895256905, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -3392180873292400541, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 65
@@ -13652,6 +13656,10 @@ PrefabInstance:
     - target: {fileID: 5335601853256353763, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 5619302609615435187, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5948493333907249684, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14901,7 +14909,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1381199040}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.811928, y: -0.8625634, z: 10.56}
+  m_LocalPosition: {x: -2.811928, y: -0.551, z: 10.56}
   m_LocalScale: {x: 1, y: 1, z: 1.1466707}
   m_Children: []
   m_Father: {fileID: 1585241288}
@@ -94191,7 +94199,7 @@ PrefabInstance:
     - target: {fileID: -2054061821972699024, guid: fba88af879eafab4ea0457bfe8cc36b9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a64120cdab879ac469a55fa5c511427c, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b3edf956070cc4680e2ff227f71ca1, type: 2}
     - target: {fileID: 919132149155446097, guid: fba88af879eafab4ea0457bfe8cc36b9, type: 3}
       propertyPath: m_Name
       value: Exterior
