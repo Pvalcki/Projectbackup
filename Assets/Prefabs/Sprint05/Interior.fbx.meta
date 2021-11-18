@@ -219,6 +219,45 @@ ModelImporter:
   - first:
       74: -7004901621655126151
     second: Pot.001|Ligne004|Take 001|BaseLayer
+  - first:
+      74: -3469285305960807875
+    second: Door_Cntrl.L_OPEN
+  - first:
+      74: 4523851270415742150
+    second: Door_Cntrl.L_CLOSE
+  - first:
+      74: 874198949831989389
+    second: Door_Cntrl.L_OPEN.001
+  - first:
+      74: -8900130902758018719
+    second: Door_Cntrl.L|D
+  - first:
+      74: 1424551629790463836
+    second: Door_Cntrl.L|Door_Cntrl.L_CLOSE
+  - first:
+      74: 899468867768706371
+    second: Door_Cntrl.L|Door_Cntrl.L_OPEN
+  - first:
+      74: -3849888325682466346
+    second: Door_Cntrl.L|Door_Cntrl.R_CLOSE
+  - first:
+      74: -6775827535771656955
+    second: Door_Cntrl.L|Door_Cntrl.R_OPEN.001
+  - first:
+      74: -1771768946086830572
+    second: Door_Cntrl.R|D
+  - first:
+      74: -9048245223531844671
+    second: Door_Cntrl.R|Door_Cntrl.L_CLOSE
+  - first:
+      74: 4212788492318539680
+    second: Door_Cntrl.R|Door_Cntrl.L_OPEN
+  - first:
+      74: -8691092034061838842
+    second: Door_Cntrl.R|Door_Cntrl.R_CLOSE
+  - first:
+      74: 3514738768424554974
+    second: Door_Cntrl.R|Door_Cntrl.R_OPEN.001
   externalObjects:
   - first:
       type: UnityEngine:Material
