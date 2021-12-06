@@ -899,14 +899,14 @@
             ]
         },
         {
-            "name": "MENU",
-            "id": "afd92dc2-cf7c-44e6-b931-77e7222b45e4",
+            "name": "PAUSE",
+            "id": "bac0b8d5-10b4-4fae-beca-25c7280b6780",
             "actions": [
                 {
-                    "name": "Toggle",
-                    "type": "Value",
-                    "id": "d7570ead-76d7-41e9-93b2-ea7b13078321",
-                    "expectedControlType": "Axis",
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "cb9283fe-a67d-4087-8909-42b76502473a",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 }
@@ -914,12 +914,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "3e171ea1-2944-432c-97e2-534cf2574f40",
+                    "id": "0f33e4bb-aa77-43a0-b559-3bb60f312f41",
                     "path": "<XRController>{LeftHand}/primaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Toggle",
+                    "action": "New action",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -19,7 +19,8 @@ public class ToggleMenu : MonoBehaviour
 
     private void Toggle(InputAction.CallbackContext context)
     {
-        bool isActive = !gameObject.activeSelf;
-        gameObject.SetActive(isActive);
+        //bool isActive = !gameObject.activeSelf;
+        //gameObject.SetActive(isActive);
+
     }
 }
