@@ -2,10 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Playables;
 
 public class ToggleMenu : MonoBehaviour
 {
+
+    public List <PlayableDirector> playableDirectors;
+
     public InputActionReference toggleReference = null;
+
+    public GameObject Pauze;
+
+    protected bool IsPaused = false;
+
+     
 
     private void Awake()
     {
@@ -21,6 +31,23 @@ public class ToggleMenu : MonoBehaviour
     {
         //bool isActive = !gameObject.activeSelf;
         //gameObject.SetActive(isActive);
+        foreach (PlayableDirector director in playableDirectors)
+        {
+            
+                if (!IsPaused)
+                {
+                    director.Pause();
+                    IsPaused = true;
+                
+                }
+                else
+                {
+                    director.Resume();
+                    IsPaused = false;
+                }
 
+            
+        }
+       
     }
 }
