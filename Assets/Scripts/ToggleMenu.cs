@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Playables;
 
+
 public class ToggleMenu : MonoBehaviour
 {
 
@@ -11,7 +12,6 @@ public class ToggleMenu : MonoBehaviour
 
     public InputActionReference toggleReference = null;
 
-    public GameObject Pauze;
 
     protected bool IsPaused = false;
 
@@ -33,18 +33,24 @@ public class ToggleMenu : MonoBehaviour
         //gameObject.SetActive(isActive);
         foreach (PlayableDirector director in playableDirectors)
         {
-            
-                if (!IsPaused)
+            if (director.isActiveAndEnabled)
+            {
+                 if (!IsPaused)
                 {
                     director.Pause();
                     IsPaused = true;
+                    Debug.Log("I'm pauzing the Game");
                 
                 }
                 else
                 {
-                    director.Resume();
+                    director.Play();
                     IsPaused = false;
+                    Debug.Log("I'm Playing the Game");
+
                 }
+            }  
+               
 
             
         }
