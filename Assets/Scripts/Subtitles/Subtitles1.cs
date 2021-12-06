@@ -8,8 +8,9 @@ public class Subtitles1 : MonoBehaviour
     // Start is called before the first frame update
 
     public GameObject textBox;
-   
-    
+    public GameObject motion;
+
+
     public void Start()
     {
        
@@ -28,6 +29,7 @@ public class Subtitles1 : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         textBox.GetComponent<Text>().text = "at the hospital Nebule.";
         yield return new WaitForSeconds(1);
+        motion.SetActive(true);
         textBox.GetComponent<Text>().text = "To rotate your view, use your right joystick";
         yield return new WaitForSeconds(3.5f);
         textBox.GetComponent<Text>().text = "To move, use your joystick on your left hand.";
