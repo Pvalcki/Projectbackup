@@ -35,7 +35,7 @@ public class Subtitles1 : MonoBehaviour
         textBox.GetComponent<Text>().text = "To move, use your joystick on your left hand.";
         yield return new WaitForSeconds(3);
         textBox.GetComponent<Text>().text = "Well done!";
-        yield return new WaitForSeconds(1  );
+        yield return new WaitForSeconds(2);
         textBox.GetComponent<Text>().text = "You now mastered the basic mechanics of the game!";
         yield return new WaitForSeconds(3.5f);
         textBox.GetComponent<Text>().text = "Now follow me to the patient his room.";
