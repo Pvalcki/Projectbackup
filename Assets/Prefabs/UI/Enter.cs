@@ -1,12 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class Enter : MonoBehaviour
 {
     public GameObject Panel;
+    public PlayableDirector playDirector;
+    
     public GameObject Menu;
-    public GameObject Menu2;
+    
     public GameObject Trigger;
 
     private void OnTriggerEnter(Collider other)
@@ -21,10 +24,17 @@ public class Enter : MonoBehaviour
             Menu.SetActive(true);
         }
 
-        if (Menu2 != null)
-        {
-            Menu2.SetActive(true);
-        }
+        
+
+
+        
+        playDirector.Play();
+
+        
+
+        
+
+
 
         Trigger.SetActive(false);
     }
