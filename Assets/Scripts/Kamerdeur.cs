@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
-public class Badkamer : MonoBehaviour
+public class Kamerdeur : MonoBehaviour
 {
     public PlayableDirector playableDirector;
 

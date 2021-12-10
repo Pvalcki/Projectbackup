@@ -7,7 +7,7 @@ public class start : MonoBehaviour
     public GameObject EmptyPanel;
     public GameObject Panel;
     public GameObject Menu;
-    
+    public GameObject Trigger;
     public GameObject Watch;
    
 
@@ -18,7 +18,7 @@ public class start : MonoBehaviour
         {
             Panel.SetActive(false);
             Menu.SetActive(false);
-            
+            Trigger.SetActive(true);
             Watch.SetActive(true);
         }
         
