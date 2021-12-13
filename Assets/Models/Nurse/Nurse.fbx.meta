@@ -493,7 +493,7 @@ ModelImporter:
       name: NEWIdle
       takeName: NEWIdle
       internalID: 0
-      firstFrame: 0
+      firstFrame: 1
       lastFrame: 250
       wrapMode: 0
       orientationOffsetY: 0
