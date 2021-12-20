@@ -9,7 +9,9 @@ public class start : MonoBehaviour
     public GameObject Menu;
     public GameObject Trigger;
     public GameObject Watch;
-   
+    public GameObject WatchBorder;
+    public GameObject WatchRender;
+
 
     public void Starter()
     {
@@ -20,6 +22,9 @@ public class start : MonoBehaviour
             Menu.SetActive(false);
             Trigger.SetActive(true);
             Watch.SetActive(true);
+            Watch.SetActive(true);
+            WatchBorder.SetActive(true);
+            WatchRender.SetActive(true);
         }
         
     }
