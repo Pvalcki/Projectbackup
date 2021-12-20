@@ -9,6 +9,7 @@ public class TimeLineController : MonoBehaviour
     public PlayableDirector stopDirector;
     public PlayableDirector playableDirector2;
     public GameObject robotski;
+    public GameObject robotskiweg;
     public GameObject firstScene;
 
 
@@ -21,6 +22,7 @@ public class TimeLineController : MonoBehaviour
         playableDirector.Play();
         
         robotski.SetActive(false);
+        robotskiweg.SetActive(true);
         stopDirector.Stop();
         playableDirector2.Play();
 
