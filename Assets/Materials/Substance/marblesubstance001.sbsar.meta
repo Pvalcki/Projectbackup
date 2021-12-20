@@ -261,7 +261,7 @@ ScriptedImporter:
       - name: _Smoothness
         float: 0.5
       - name: _SmoothnessRemapMax
-        float: 1
+        float: 0.8832117
       - name: _SmoothnessRemapMin
         float: 0
       - name: _SpecularAAScreenSpaceVariance
@@ -297,7 +297,7 @@ ScriptedImporter:
       - name: _TessellationBackFaceCullEpsilon
         float: -0.25
       - name: _TessellationFactor
-        float: 4
+        float: 0
       - name: _TessellationFactorMaxDistance
         float: 50
       - name: _TessellationFactorMinDistance
