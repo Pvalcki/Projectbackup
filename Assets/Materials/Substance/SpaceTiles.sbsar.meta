@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6dcf47c4b939a2c4fbee71283a2c5ed7
+guid: 2cfc678731f83b14eb4313d11574fe13
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -11,22 +11,21 @@ ScriptedImporter:
   version: 29
   projectContext: 1
   mGraphInstanceData:
-  - graphLabel: Marble
-    prototypeName: Marble
+  - graphLabel: SpaceTiles
+    prototypeName: SpaceTiles
     graphDescIndex: 0
     generateAllOutputs: 0
     generateMipMaps: 1
-    preset: " <sbspreset pkgurl=\"pkg://Marble\" label=\"\" >\n  <presetinput identifier=\"$outputsize\"
-      uid=\"3998941830\" type=\"8\" value=\"9,9\" />\n </sbspreset>\n"
+    preset: " <sbspreset pkgurl=\"pkg://SpaceTiles\" label=\"\" >\n  <presetinput
+      identifier=\"$outputsize\" uid=\"2036857184\" type=\"8\" value=\"9,9\" />\n
+      </sbspreset>\n"
     shaderName: HDRP/LitTessellation
     materialProperties:
       shader: {fileID: 4800000, guid: 756bac9090102564582875f4c7e30202, type: 3}
-      shaderKeywords: _BASECOLORMAP _DISPLACEMENT_LOCK_TILING_SCALE _DOUBLESIDED_ON
-        _HEIGHTMAP _MASKMAP _NORMALMAP _NORMALMAPOS _NORMALMAP_TANGENT_SPACE _TESSELLATION_DISPLACEMENT
-        _TESSELLATION_PHONG _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE
+      shaderKeywords: _BASECOLORMAP _HEIGHTMAP _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
       lightmapFlags: 4
       enableInstancingVariants: 0
-      doubleSidedGI: 1
+      doubleSidedGI: 0
       customRenderQueue: 2225
       texEnvs:
       - name: _AnisotropyMap
@@ -34,8 +33,8 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _BaseColorMap
-        texture: {fileID: -5770893121829810773, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
-        scale: {x: 15, y: 15}
+        texture: {fileID: -969636786584585976, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
+        scale: {x: 10, y: 10}
         offset: {x: 0, y: 0}
       - name: _BentNormalMap
         texture: {instanceID: 0}
@@ -58,7 +57,7 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _HeightMap
-        texture: {fileID: -6612643904982993138, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+        texture: {fileID: -396055187293064559, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _IridescenceMaskMap
@@ -74,15 +73,15 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MaskMap
-        texture: {fileID: 746019155099717459, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+        texture: {fileID: 6661893010929241783, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _NormalMap
-        texture: {fileID: -6434546713265833433, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+        texture: {fileID: 2746373483872472881, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _NormalMapOS
-        texture: {fileID: 3608537488841667994, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+        texture: {instanceID: 0}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _SpecularColorMap
@@ -157,9 +156,9 @@ ScriptedImporter:
       - name: _CoatMask
         float: 0
       - name: _CullMode
-        float: 0
+        float: 2
       - name: _CullModeForward
-        float: 0
+        float: 2
       - name: _Cutoff
         float: 0.5
       - name: _DepthOffsetEnable
@@ -179,9 +178,9 @@ ScriptedImporter:
       - name: _DisplacementLockTilingScale
         float: 1
       - name: _DisplacementMode
-        float: 3
+        float: 0
       - name: _DoubleSidedEnable
-        float: 1
+        float: 0
       - name: _DoubleSidedNormalMode
         float: 1
       - name: _DstBlend
@@ -203,11 +202,11 @@ ScriptedImporter:
       - name: _EnergyConservingSpecularColor
         float: 1
       - name: _HeightAmplitude
-        float: -0
+        float: 0.02
       - name: _HeightCenter
         float: 0.5
       - name: _HeightMapParametrization
-        float: 1
+        float: 0
       - name: _HeightMax
         float: 1
       - name: _HeightMin
@@ -217,11 +216,11 @@ ScriptedImporter:
       - name: _HeightPoMAmplitude
         float: 2
       - name: _HeightTessAmplitude
-        float: 0
+        float: 2
       - name: _HeightTessCenter
         float: 0.5
       - name: _InvTilingScale
-        float: 0.06666667
+        float: 0.1
       - name: _Ior
         float: 1
       - name: _IridescenceMask
@@ -235,13 +234,13 @@ ScriptedImporter:
       - name: _Metallic
         float: 1
       - name: _MetallicRemapMax
-        float: 0.0047566295
+        float: 1
       - name: _MetallicRemapMin
         float: 0
       - name: _NormalMapSpace
         float: 0
       - name: _NormalScale
-        float: 0.42
+        float: 1
       - name: _OpaqueCullMode
         float: 2
       - name: _PPDLodThreshold
@@ -261,7 +260,7 @@ ScriptedImporter:
       - name: _Smoothness
         float: 0.5
       - name: _SmoothnessRemapMax
-        float: 0.8832117
+        float: 1
       - name: _SmoothnessRemapMin
         float: 0
       - name: _SpecularAAScreenSpaceVariance
@@ -297,7 +296,7 @@ ScriptedImporter:
       - name: _TessellationBackFaceCullEpsilon
         float: -0.25
       - name: _TessellationFactor
-        float: 0
+        float: 4
       - name: _TessellationFactorMaxDistance
         float: 50
       - name: _TessellationFactorMinDistance
@@ -305,7 +304,7 @@ ScriptedImporter:
       - name: _TessellationFactorTriangleSize
         float: 100
       - name: _TessellationMode
-        float: 1
+        float: 0
       - name: _TessellationShapeFactor
         float: 0.75
       - name: _TexWorldScale
@@ -352,11 +351,11 @@ ScriptedImporter:
         float: 1
       colors:
       - name: _BaseColor
-        color: {r: 1, g: 1, b: 1, a: 1}
+        color: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
       - name: _BaseColorMap_MipInfo
         color: {r: 0, g: 0, b: 0, a: 0}
       - name: _Color
-        color: {r: 1, g: 1, b: 1, a: 1}
+        color: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
       - name: _DiffusionProfileAsset
         color: {r: 0, g: 0, b: 0, a: 0}
       - name: _DoubleSidedConstants
@@ -411,6 +410,15 @@ ScriptedImporter:
       bImage: 1
       bNumerical: 0
       bLinear: 1
+    - outputName: metallic
+      identifier: metallic
+      usageName: metallic
+      channelStr: metallic
+      label: Metallic
+      usage: 34
+      bImage: 1
+      bNumerical: 0
+      bLinear: 1
     - outputName: height
       identifier: height
       usageName: height
@@ -420,12 +428,12 @@ ScriptedImporter:
       bImage: 1
       bNumerical: 0
       bLinear: 1
-    - outputName: 
-      identifier: mask
-      usageName: UNKNOWN
-      channelStr: 
-      label: Mask
-      usage: 36
+    - outputName: ambientOcclusion
+      identifier: ao
+      usageName: ambientOcclusion
+      channelStr: ambientOcclusion
+      label: ambientOcclusion
+      usage: 5
       bImage: 1
       bNumerical: 0
       bLinear: 1
@@ -454,22 +462,27 @@ ScriptedImporter:
       - sourceName: roughness
         from: 0
         to: 3
+    - targetName: metallic
+      components:
+      - sourceName: smoothness
+        from: 0
+        to: 3
     - targetName: height
       components:
       - sourceName: height
         from: 0
         to: 3
-    - targetName: 
+    - targetName: ambientOcclusion
       components:
-      - sourceName: 
+      - sourceName: ambientOcclusion
         from: 0
         to: 3
     - targetName: mask
       components:
-      - sourceName: mask
+      - sourceName: metallic
         from: 0
         to: 0
-      - sourceName: mask
+      - sourceName: ambientOcclusion
         from: 0
         to: 1
       - sourceName: mask
@@ -479,27 +492,31 @@ ScriptedImporter:
         from: 0
         to: 3
     textureParameters:
-    - textureName: Marble - baseColor
+    - textureName: SpaceTiles - baseColor
       wrapMode: 0
       filterMode: 1
       aniso: 1
-    - textureName: Marble - normal
+    - textureName: SpaceTiles - normal
       wrapMode: 0
       filterMode: 1
       aniso: 1
-    - textureName: Marble - roughness
+    - textureName: SpaceTiles - roughness
       wrapMode: 0
       filterMode: 1
       aniso: 1
-    - textureName: Marble - height
+    - textureName: SpaceTiles - metallic
       wrapMode: 0
       filterMode: 1
       aniso: 1
-    - textureName: 'Marble - '
+    - textureName: SpaceTiles - height
       wrapMode: 0
       filterMode: 1
       aniso: 1
-    - textureName: Marble - mask
+    - textureName: SpaceTiles - ambientOcclusion
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: SpaceTiles - mask
       wrapMode: 0
       filterMode: 1
       aniso: 1
@@ -514,10 +531,9 @@ ScriptedImporter:
       textureFormatMode: 0
       normalCompressed: 0
       bGenerateOnLoad: 1
-    material: {fileID: -5758955834144789715, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+    material: {fileID: -2653520345879795533, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
     generatedTextures:
-    - {fileID: -5770893121829810773, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
-    - {fileID: -6434546713265833433, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
-    - {fileID: -6612643904982993138, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
-    - {fileID: 3608537488841667994, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
-    - {fileID: 746019155099717459, guid: 6dcf47c4b939a2c4fbee71283a2c5ed7, type: 3}
+    - {fileID: -969636786584585976, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
+    - {fileID: 2746373483872472881, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
+    - {fileID: -396055187293064559, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
+    - {fileID: 6661893010929241783, guid: 2cfc678731f83b14eb4313d11574fe13, type: 3}
