@@ -37,6 +37,9 @@ ModelImporter:
       74: -1236556857694842835
     second: Armature|Dying Backwards
   - first:
+      74: -5768847031836138070
+    second: Armature|HandWahing
+  - first:
       74: -8945691123924629249
     second: Armature|Idle
   - first:
@@ -141,9 +144,6 @@ ModelImporter:
   - first:
       74: 6220597888753299406
     second: Armature|Watering
-  - first:
-      74: -7068692282933732278
-    second: Armature|Watering.001
   - first:
       74: 5102338854568510702
     second: Armature|Yelling
