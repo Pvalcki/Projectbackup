@@ -1086,7 +1086,7 @@ PrefabInstance:
     - target: {fileID: -8718365090934453060, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0d211c6ced2815847a9632b5cf3f434b, type: 2}
+      objectReference: {fileID: 2100000, guid: df155906103187543a883dd857da26a4, type: 2}
     - target: {fileID: -8679921383154817045, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1131,13 +1131,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -729517376574526975, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fdfec2f62af18142a58a13c077e124e, type: 2}
     - target: {fileID: 919132149155446097, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Name
       value: NurseAnimation
       objectReference: {fileID: 0}
+    - target: {fileID: 6521107830714739704, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bd91180b8858a02478ce1ef516fcc0bc, type: 2}
     - target: {fileID: 7030708061168608026, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1160,20 +1168,44 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: c2e1aa7eb00428e49b99545546c7e9cf, type: 2}
     - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[5]
+      value: 
+      objectReference: {fileID: 2100000, guid: 211ce20806f704e4cb6b6ef319081d39, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Materials.Array.data[6]
       value: 
       objectReference: {fileID: 2100000, guid: 7909a0e47168d6642bccd97645eae76d, type: 2}
     - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[7]
+      value: 
+      objectReference: {fileID: 2100000, guid: c92ef8fd21d155b45b97c6292cd74468, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[8]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3c8782948652f4449bf54f2bf7d35ada, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Materials.Array.data[9]
       value: 
       objectReference: {fileID: 2100000, guid: be3514d4c650e1840b2e11fa4126be51, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[10]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a528af6b5b7abb49a51f3bd3f3dcc0c, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[11]
+      value: 
+      objectReference: {fileID: 2100000, guid: ac34aa12fb8db534397f216497242cd6, type: 2}
+    - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
+      propertyPath: m_Materials.Array.data[12]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7175cd310713ecf4d8bd4d4374c8dcee, type: 2}
     - target: {fileID: 8283698094338628058, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_Materials.Array.data[13]
       value: 
       objectReference: {fileID: 2100000, guid: 6a33138e420e74a49985de6d96879d81, type: 2}
     - target: {fileID: 8789477796328488378, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1ba3fa713710694d9a22e46143d8f13, type: 3}
