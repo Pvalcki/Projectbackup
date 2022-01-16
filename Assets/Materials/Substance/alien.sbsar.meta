@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 84d0f79048ec62a4c87352e1210e3d43
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 29
+  projectContext: 1
+  mGraphInstanceData: []
