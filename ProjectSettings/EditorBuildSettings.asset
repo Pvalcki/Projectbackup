@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Hospital_Testing_HDRP_01.unity
+    guid: 23c024773fd5b51409c214d6c8fe3a14
+  - enabled: 1
     path: Assets/Scenes/Hospital_Testing_HDRP_02.unity
     guid: ac3248129ae8ae64f87b7b7c351da7ff
   m_configObjects:

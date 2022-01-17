@@ -29,7 +29,6 @@ public class Subtitles1 : MonoBehaviour
         yield return new WaitForSeconds(2);
         textBox.GetComponent<Text>().text = "at the hospital Nebule.";
         yield return new WaitForSeconds(1.4f);
-        motion.SetActive(true);
         textBox.GetComponent<Text>().text = "You probably wonder";
         yield return new WaitForSeconds(1.3f);
         textBox.GetComponent<Text>().text = "how you are able to move?";
@@ -37,6 +36,7 @@ public class Subtitles1 : MonoBehaviour
         textBox.GetComponent<Text>().text = "Well, to rotate your view";
         yield return new WaitForSeconds(1.8f);
         textBox.GetComponent<Text>().text = "Use the joystick on your right controller";
+        motion.SetActive(true);
         yield return new WaitForSeconds(2.2f);
         textBox.GetComponent<Text>().text = "To move around";
         yield return new WaitForSeconds(1.5f);
