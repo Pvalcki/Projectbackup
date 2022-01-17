@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1350.8539, g: 1407.2826, b: 1308.6866, a: 1}
+  m_IndirectSpecularColor: {r: 2192.324, g: 2314.9585, b: 2189.7957, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1244,7 +1244,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 104d0371847aa5c428960b898f5d1927, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1340,7 +1340,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: f6c8e10ed0f8f3c43968d3f2ab67dd95, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -4305,7 +4305,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157149111}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.32, y: 0.00000011348943, z: 6.4230742}
+  m_LocalPosition: {x: -1.32, y: 0.000000113489435, z: 6.4230742}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1585241288}
@@ -4990,7 +4990,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.069, y: 0}
+  m_AnchoredPosition: {x: 0.069, y: -0.189}
   m_SizeDelta: {x: 1174, y: 569}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!328 &197515707
@@ -8189,12 +8189,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ebb2ad3f38379347897ad399290a808, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playableDirector: {fileID: 1766783612}
+  playableDirector: {fileID: 1781701107}
   stopDirector: {fileID: 80018577}
   Watch: {fileID: 709364054}
   Watch2: {fileID: 1372584408}
   previousScene: {fileID: 80018575}
-  currentScene: {fileID: 1766783610}
+  currentScene: {fileID: 1781701105}
 --- !u!114 &495231813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12210,7 +12210,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!320 &914512227
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -12244,6 +12244,8 @@ PlayableDirector:
     value: {fileID: 1021105075}
   - key: {fileID: -2071017505974720817, guid: 137aa73a14d44dd4b835cb6ae0d791c4, type: 2}
     value: {fileID: 1021105075}
+  - key: {fileID: 5363770026657656290, guid: 137aa73a14d44dd4b835cb6ae0d791c4, type: 2}
+    value: {fileID: 1893703013}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &914512228
@@ -26477,7 +26479,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!136 &1893703014
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28124,7 +28126,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2041207437
 Transform:
   m_ObjectHideFlags: 0
@@ -28279,6 +28281,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2069432949}
   m_CullTransparentMesh: 1
+--- !u!1 &2080356467 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 385677512905838484, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
+  m_PrefabInstance: {fileID: 520415767}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2080356469
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080356467}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3938323035232839003, guid: 7b904ea498120dc45bcb99bc3852acef, type: 3}
 --- !u!1 &2081326195
 GameObject:
   m_ObjectHideFlags: 0
