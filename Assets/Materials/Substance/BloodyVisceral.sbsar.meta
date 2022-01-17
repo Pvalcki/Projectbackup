@@ -22,11 +22,12 @@ ScriptedImporter:
     shaderName: HDRP/LitTessellation
     materialProperties:
       shader: {fileID: 4800000, guid: 756bac9090102564582875f4c7e30202, type: 3}
-      shaderKeywords: _BASECOLORMAP _HEIGHTMAP _MASKMAP _NORMALMAP
+      shaderKeywords: _BASECOLORMAP _DISPLACEMENT_LOCK_TILING_SCALE _HEIGHTMAP _MASKMAP
+        _NORMALMAP _NORMALMAP_TANGENT_SPACE _TESSELLATION_DISPLACEMENT _VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE
       lightmapFlags: 4
       enableInstancingVariants: 0
       doubleSidedGI: 0
-      customRenderQueue: -1
+      customRenderQueue: 2225
       texEnvs:
       - name: _AnisotropyMap
         texture: {instanceID: 0}
@@ -35,7 +36,7 @@ ScriptedImporter:
       - name: _BaseColorMap
         texture: {fileID: 4512901682090294534, guid: 089152e5e42838f42914c77b04bb5eda, type: 3}
         scale: {x: 1, y: 1}
-        offset: {x: 0, y: 0}
+        offset: {x: 15, y: 15}
       - name: _BentNormalMap
         texture: {instanceID: 0}
         scale: {x: 1, y: 1}
@@ -274,19 +275,19 @@ ScriptedImporter:
       - name: _StencilRef
         float: 0
       - name: _StencilRefDepth
-        float: 0
+        float: 8
       - name: _StencilRefGBuffer
-        float: 2
+        float: 10
       - name: _StencilRefMV
-        float: 32
+        float: 40
       - name: _StencilWriteMask
-        float: 3
+        float: 6
       - name: _StencilWriteMaskDepth
         float: 8
       - name: _StencilWriteMaskGBuffer
-        float: 3
+        float: 14
       - name: _StencilWriteMaskMV
-        float: 32
+        float: 40
       - name: _SubsurfaceMask
         float: 1
       - name: _SupportDecals
@@ -342,7 +343,7 @@ ScriptedImporter:
       - name: _UseShadowThreshold
         float: 0
       - name: _ZTestDepthEqualForOpaque
-        float: 4
+        float: 3
       - name: _ZTestGBuffer
         float: 4
       - name: _ZTestTransparent
