@@ -19,11 +19,11 @@ public class Restart : MonoBehaviour
         stopDirector.Stop();
         playDirector.Play();
         StartCoroutine(ExecuteAfterTime(5));
-        
+        Watch.SetActive(false);
 
 
 
-    }
+}
 
 
     IEnumerator ExecuteAfterTime(float time)
