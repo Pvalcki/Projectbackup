@@ -22,8 +22,8 @@ ScriptedImporter:
     shaderName: HDRP/LitTessellation
     materialProperties:
       shader: {fileID: 4800000, guid: 756bac9090102564582875f4c7e30202, type: 3}
-      shaderKeywords: _BASECOLORMAP _HEIGHTMAP _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
-        _TESSELLATION_PHONG
+      shaderKeywords: _BASECOLORMAP _HEIGHTMAP _MAPPING_TRIPLANAR _MASKMAP _NORMALMAP
+        _NORMALMAP_TANGENT_SPACE _TESSELLATION_PHONG
       lightmapFlags: 4
       enableInstancingVariants: 0
       doubleSidedGI: 0
@@ -333,7 +333,7 @@ ScriptedImporter:
       - name: _TransparentZWrite
         float: 0
       - name: _UVBase
-        float: 0
+        float: 5
       - name: _UVDetail
         float: 0
       - name: _UVEmissive
@@ -380,7 +380,7 @@ ScriptedImporter:
       - name: _UVDetailsMappingMask
         color: {r: 1, g: 0, b: 0, a: 0}
       - name: _UVMappingMask
-        color: {r: 1, g: 0, b: 0, a: 0}
+        color: {r: 0, g: 0, b: 0, a: 0}
       - name: _UVMappingMaskEmissive
         color: {r: 1, g: 0, b: 0, a: 0}
     outputDescList:
