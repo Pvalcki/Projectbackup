@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: f903bb530f887cc4fbcbae7797a55b16, type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: fe732251f5145f8478d023ef3e594243, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 8221d57e7eaa88b4ca1791d2f312fa36, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -2262,6 +2262,10 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5697740678528315081, guid: e1d536da915664c43ba0f5f4c5cd6f9f, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697740678528315081, guid: e1d536da915664c43ba0f5f4c5cd6f9f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 1788625638056339801, guid: 957c028f840a0e74aaa67112ca13418d, type: 3}
@@ -2586,7 +2590,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1265360117}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.00014924764, y: 0.09029114, z: -0.039674867}
+  m_LocalPosition: {x: 0.00014924764, y: 0.09029107, z: -0.039674867}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 366791882}
@@ -2778,7 +2782,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: a3ade260009071b429ca007447f8a834, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: 9d2ab5648e6dd5b49bb7424c88807d48, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
@@ -5571,7 +5575,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1896446006}
   m_LocalRotation: {x: -0.11767916, y: -0, z: -0, w: 0.9930517}
-  m_LocalPosition: {x: 0.00014924764, y: 0.14257751, z: -0.061793864}
+  m_LocalPosition: {x: 0.00014924764, y: 0.14257742, z: -0.061793864}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 366791882}
@@ -6020,6 +6024,9 @@ MonoBehaviour:
   - id: 2
     category: 0
     gameObject: {fileID: 1629940218}
+  - id: 3
+    category: 0
+    gameObject: {fileID: 1265360117}
 --- !u!4 &1924917675
 Transform:
   m_ObjectHideFlags: 19
