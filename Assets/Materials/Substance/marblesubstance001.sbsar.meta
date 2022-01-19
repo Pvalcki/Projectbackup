@@ -235,7 +235,7 @@ ScriptedImporter:
       - name: _Metallic
         float: 1
       - name: _MetallicRemapMax
-        float: 0.3519217
+        float: 0.022962153
       - name: _MetallicRemapMin
         float: 0
       - name: _NormalMapSpace
