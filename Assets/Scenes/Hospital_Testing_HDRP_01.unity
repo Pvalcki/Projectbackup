@@ -26245,7 +26245,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644323789117, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.0499997
+      value: -1.0499995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644323789117, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.25
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644323789118, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_BakedTexture
@@ -26293,7 +26297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684874, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.9625324
+      value: 1.2291918
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684874, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_LocalPosition.y
@@ -26301,7 +26305,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684874, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.850189
+      value: 6.0414195
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_BakedTexture
@@ -26309,11 +26313,43 @@ PrefabInstance:
       objectReference: {fileID: 8900000, guid: 96529cb99e8f0f241b48e2e4e14df7df, type: 3}
     - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_ProbeSettings.influence.m_BoxSize.x
-      value: 6.65506
+      value: 3.8685894
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_ProbeSettings.influence.m_BoxSize.y
       value: 8.969681
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxSize.z
+      value: 6.9792166
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistanceNegative.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistanceNegative.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistanceNegative.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistancePositive.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistancePositive.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_BoxBlendDistancePositive.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684875, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_ProbeSettings.influence.m_EditorSimplifiedModeBlendDistance
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684876, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_Mode
@@ -26321,11 +26357,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684876, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_BoxSize.x
-      value: 6.65506
+      value: 3.8685894
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644848684876, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_BoxSize.y
       value: 8.969681
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550201644848684876, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 6.9792166
       objectReference: {fileID: 0}
     - target: {fileID: 1550201644860271648, guid: 3e26a694c8205ac42a3b3d4244e26a71, type: 3}
       propertyPath: m_IsActive
