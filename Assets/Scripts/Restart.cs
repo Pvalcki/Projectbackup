@@ -7,7 +7,7 @@ using System.Threading;
 
 public class Restart : MonoBehaviour
 {
-    public PlayableDirector playDirector;
+    
     public PlayableDirector stopDirector;
     public GameObject Watch;
 
@@ -17,9 +17,9 @@ public class Restart : MonoBehaviour
     {
 
         stopDirector.Stop();
-        playDirector.Play();
-        StartCoroutine(ExecuteAfterTime(5));
         Watch.SetActive(false);
+        StartCoroutine(ExecuteAfterTime(1));
+        
 
 
 
@@ -30,7 +30,7 @@ public class Restart : MonoBehaviour
     {
         yield return new WaitForSeconds(time);
 
-        SceneManager.LoadScene("Hospital_Testing_HDRP_02");
+        Application.Quit();
     }
 
    
