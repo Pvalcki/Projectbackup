@@ -1524,7 +1524,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0
   MaxDistance: 20
   Pan2D: 0
   rolloffMode: 1
@@ -11267,8 +11267,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 2.3488133, z: 1}
-  m_Center: {x: 0, y: 0.67440665, z: 0}
+  m_Size: {x: 12.80401, y: 2.7567966, z: 1.923902}
+  m_Center: {x: 5.901986, y: 0.470415, z: 0.09037253}
 --- !u!23 &515424780
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11908,7 +11908,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -15731,6 +15731,8 @@ PlayableDirector:
     value: {fileID: 1021105077}
   - key: {fileID: -4773736677263347721, guid: 137aa73a14d44dd4b835cb6ae0d791c4, type: 2}
     value: {fileID: 337579479}
+  - key: {fileID: 4333689746628832232, guid: 137aa73a14d44dd4b835cb6ae0d791c4, type: 2}
+    value: {fileID: 337822962}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &914512228
@@ -16085,6 +16087,8 @@ PlayableDirector:
     value: {fileID: 1678181786}
   - key: {fileID: 558617067636619878, guid: 7fca9d1e382ecd54f813cf065f893ef2, type: 2}
     value: {fileID: 919132149134544034}
+  - key: {fileID: -4529594358951422374, guid: 7fca9d1e382ecd54f813cf065f893ef2, type: 2}
+    value: {fileID: 337822962}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &939107741
@@ -29025,6 +29029,8 @@ PlayableDirector:
     value: {fileID: 1021105077}
   - key: {fileID: 8083654183645665200, guid: 4e80f32df04cb734fa3c2c1fd5de117d, type: 2}
     value: {fileID: 113471990}
+  - key: {fileID: -2255194673838228664, guid: 4e80f32df04cb734fa3c2c1fd5de117d, type: 2}
+    value: {fileID: 337822962}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1704704890
@@ -30754,6 +30760,8 @@ PlayableDirector:
     value: {fileID: 485790079}
   - key: {fileID: 4377537767306318019, guid: 90234bebdfa80c24d8ac73be41869d74, type: 2}
     value: {fileID: 967870735}
+  - key: {fileID: 5272543812252957921, guid: 90234bebdfa80c24d8ac73be41869d74, type: 2}
+    value: {fileID: 337822962}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1801297288
@@ -32168,6 +32176,8 @@ PlayableDirector:
     value: {fileID: 1021105077}
   - key: {fileID: -6408510491184312740, guid: b454013c878b4fc49a565ec2d59b1344, type: 2}
     value: {fileID: 113471990}
+  - key: {fileID: 5882421026602884085, guid: b454013c878b4fc49a565ec2d59b1344, type: 2}
+    value: {fileID: 337822962}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1885901335
@@ -33720,7 +33730,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2041207437
 Transform:
   m_ObjectHideFlags: 0
