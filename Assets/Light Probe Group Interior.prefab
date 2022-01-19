@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2265162486229105151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2265162486229105149}
+  - component: {fileID: 2265162486229105150}
+  m_Layer: 0
+  m_Name: Light Probe Group Gang
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &2265162486229105149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2265162486229105151}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.2833335, y: -0.5296683, z: 2.381045}
+  m_LocalScale: {x: 0.84821427, y: 0.37914693, z: 0.41220382}
+  m_Children: []
+  m_Father: {fileID: 2265162487529733781}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!220 &2265162486229105150
+LightProbeGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2265162486229105151}
+  m_Enabled: 1
+  m_SourcePositions:
+  - {x: 0.97044855, y: 1, z: 2.1532328}
+  - {x: 1, y: 1, z: -0.5912402}
+  - {x: 0.97044855, y: -1, z: 2.1532328}
+  - {x: 1, y: -1, z: -0.5912402}
+  - {x: -1, y: 1, z: 1}
+  - {x: -1, y: 1, z: -1}
+  - {x: -1, y: -1, z: 1}
+  - {x: -1, y: -1, z: -1}
+  - {x: 4.874709, y: 3.7960336, z: 4.465115}
+  - {x: 5.380861, y: -0.37967363, z: 4.7721925}
+  - {x: 4.416758, y: 2.0858471, z: 2.6104062}
+  - {x: 4.506078, y: -1, z: 2.5251396}
+  - {x: 2.7522075, y: -1, z: 5.10148}
+  - {x: 2.7522075, y: 1, z: 5.10148}
+  - {x: 3.0066645, y: -1, z: 3.1351163}
+  - {x: 3.0066645, y: 1, z: 3.1351163}
+  - {x: 2.108302, y: -1, z: 0.7424055}
+  - {x: 2.108302, y: 1, z: 0.7424055}
+  - {x: 5.359451, y: -1.0199999, z: 1.1959139}
+  - {x: 5.987057, y: -0.30991778, z: 3.6022408}
+  - {x: 5.9183784, y: 2.8763003, z: 0.4850391}
+  - {x: 7.3861027, y: 2.5977879, z: 0.3847856}
+  - {x: 8.301643, y: 2.4244757, z: 0.62840873}
+  - {x: 7.120995, y: -1.0199999, z: 2.1289034}
+  - {x: 7.648768, y: -1.0199999, z: 0.26905185}
+  - {x: 6.8023167, y: 1.7502196, z: 2.6319773}
+  - {x: 4.0909195, y: 1.6203108, z: 0.4850391}
+  - {x: 3.8502133, y: -0.2710672, z: 1.8934265}
+  - {x: 4.392715, y: 0.31847128, z: -1.189249}
+  m_Dering: 1
+--- !u!1 &2265162487529733783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2265162487529733781}
+  - component: {fileID: 2265162487529733782}
+  m_Layer: 0
+  m_Name: Light Probe Group Interior
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2265162487529733781
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2265162487529733783}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.69, y: 2.417, z: -9.94}
+  m_LocalScale: {x: 4.2, y: 2.6375, z: 3.8512504}
+  m_Children:
+  - {fileID: 2265162486229105149}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!220 &2265162487529733782
+LightProbeGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2265162487529733783}
+  m_Enabled: 1
+  m_SourcePositions:
+  - {x: 0.0011101866, y: 0.48951936, z: 1.7553458}
+  - {x: 0.975336, y: 0.5029746, z: -1}
+  - {x: 0.16376564, y: -0.9655361, z: 1.1466138}
+  - {x: 1, y: -0.6120585, z: -1}
+  - {x: -1, y: 0.7870657, z: 1}
+  - {x: -1.534437, y: 1.0525964, z: -0.1837293}
+  - {x: -1.1150054, y: -0.92728525, z: 3.1114733}
+  - {x: -1.3757421, y: -0.91644204, z: -0.61141825}
+  - {x: -0.45740962, y: 0.1379462, z: 3.3272}
+  - {x: -0.99879247, y: 0.27924317, z: 3.055884}
+  m_Dering: 1
