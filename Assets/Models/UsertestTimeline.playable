@@ -175,6 +175,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     m_DisplayName: Armature|Standing Greeting
   - m_Version: 1
@@ -246,6 +247,8 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
 >>>>>>> parent of 811086b (Update)
+=======
+>>>>>>> parent of cc467cc (Lighting)
 =======
 >>>>>>> parent of cc467cc (Lighting)
     m_DisplayName: Armature|Arm Gesture
