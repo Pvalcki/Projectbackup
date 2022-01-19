@@ -1631,7 +1631,106 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+  MinDistance: 1
+  MaxDistance: 20
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &113471991
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132149134544034}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: aa41c18cdb05d1f47850e8efcc38819e, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+>>>>>>> parent of 811086b (Update)
   MinDistance: 1
   MaxDistance: 20
   Pan2D: 0
@@ -16630,6 +16729,9 @@ PlayableDirector:
     value: {fileID: 1021105077}
   - key: {fileID: -4773736677263347721, guid: 137aa73a14d44dd4b835cb6ae0d791c4, type: 2}
     value: {fileID: 337579479}
+<<<<<<< HEAD
+>>>>>>> parent of 811086b (Update)
+=======
 >>>>>>> parent of 811086b (Update)
   m_ExposedReferences:
     m_References: []
@@ -17091,6 +17193,9 @@ PlayableDirector:
     value: {fileID: 113471988}
 =======
     value: {fileID: 919132149134544034}
+<<<<<<< HEAD
+>>>>>>> parent of 811086b (Update)
+=======
 >>>>>>> parent of 811086b (Update)
   m_ExposedReferences:
     m_References: []
@@ -32495,6 +32600,9 @@ PlayableDirector:
     value: {fileID: 485790079}
   - key: {fileID: 4377537767306318019, guid: 90234bebdfa80c24d8ac73be41869d74, type: 2}
     value: {fileID: 967870735}
+<<<<<<< HEAD
+>>>>>>> parent of 811086b (Update)
+=======
 >>>>>>> parent of 811086b (Update)
   m_ExposedReferences:
     m_References: []
