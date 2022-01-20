@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 76a56a57c9c8c084b825973a22be796f, type: 3}
   m_ShaderKeywords: _DISABLE_SSR_TRANSPARENT
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2225
   stringTagMap:
@@ -94,7 +94,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 640978b2ad21a8042800f54e23cb4568, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -142,8 +142,8 @@ Material:
     - Boolean_1D58D9F9: 0
     - Boolean_48E9F01A: 0
     - Vector1_2225B79: 1
-    - Vector1_377EDD4F: 0.5
-    - Vector1_3A76C62E: 0.41
+    - Vector1_377EDD4F: 0.558
+    - Vector1_3A76C62E: 0
     - Vector1_673DD342: 0
     - Vector1_674590AE: 0
     - Vector1_8A8F4DE: 0
